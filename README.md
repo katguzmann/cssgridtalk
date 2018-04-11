@@ -1,2 +1,2 @@
 # cssgridtalk
-CSS Grid Talk I gave on NodersJS Meetup
+CSS Grid Talk I gave on NodersJS and BeerJS
